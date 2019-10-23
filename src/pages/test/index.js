@@ -10,7 +10,7 @@ function Test(props) {
     }, [])
     return (
         <div>
-            adaa{props.numReducer.num}
+            bigvwv——adaa{props.numReducer.num}
             <p
                 onClick={() => {
                     props.actions.addAction()
